@@ -1,9 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T07:28:18.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="21.2.3" etag="6I2jJVR6Aa1adi1YmzmB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T07:54:05.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3rKeGGSDnSLT2jTN0fxy" version="21.2.3" type="github">
   <diagram name="第 1 页" id="B_yO0mGZz7SA-4u-ELh0">
-    <mxGraphModel>
+    <mxGraphModel dx="1969" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-1" value="DRGS数据分析流程图&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-6" value="医&lt;br&gt;教&lt;br&gt;病&lt;br&gt;案&lt;br&gt;科" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="514" y="200" width="60" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-7" value="每月12日前完成病案上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.5" y="440" as="sourcePoint" />
+            <mxPoint x="549.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="120" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="144.4423076923077" y="40" as="sourcePoint" />
+            <mxPoint x="144.4423076923077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="290" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="40" as="sourcePoint" />
+            <mxPoint x="290" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="200" width="221" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-2" value="医&lt;br style=&quot;font-size: 20px;&quot;&gt;保&lt;br style=&quot;font-size: 20px;&quot;&gt;办" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry x="161" width="60" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-3" value="每月初（5日前）统计并核对上月床日患者信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rotation=90;size=13;horizontal=0;" vertex="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry x="40" y="-25" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-4" value="每周统计在院按床日结算患者的日均费用" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rotation=90;size=13;horizontal=0;" vertex="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry x="40" y="55" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-5" value="每月初统计上月按床日结算患者的日均费用" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rotation=90;size=13;horizontal=0;" vertex="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry x="40" y="135" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="39.5" as="sourcePoint" />
+            <mxPoint x="160" y="39.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131" y="118.5" as="sourcePoint" />
+            <mxPoint x="161" y="118.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-QviPFHZrSyiFUqY34Fz-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="197.5" as="sourcePoint" />
+            <mxPoint x="160" y="197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-QviPFHZrSyiFUqY34Fz-2" target="-QviPFHZrSyiFUqY34Fz-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="520" as="sourcePoint" />
+            <mxPoint x="460" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-22" value="医保办检查有无漏传，错传，核对诊断编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="488" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="510" as="sourcePoint" />
+            <mxPoint x="250" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-29" value="数据回流后，医保办及时整理数据，分发给科主任，核查入组情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-QviPFHZrSyiFUqY34Fz-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="620" as="sourcePoint" />
+            <mxPoint x="250" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-31" value="入组是否有问题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="690" as="sourcePoint" />
+            <mxPoint x="360" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-33" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="668" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-34" value="向医保局反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="668" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-36" value="统计并分析数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="760" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="722" as="sourcePoint" />
+            <mxPoint x="250" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-38" value="院级（医教科、临床科室、医保办）讨论分析数据并总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="850" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-QviPFHZrSyiFUqY34Fz-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="810" as="sourcePoint" />
+            <mxPoint x="255" y="848" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
